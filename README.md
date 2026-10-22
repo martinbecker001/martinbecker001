@@ -5,4 +5,4 @@ Senior Program Manager and Chief of Staff of Engineering. I run planning and del
 - **Portfolio:** [martinbecker001.github.io](https://martinbecker001.github.io)
 - **LinkedIn:** [linkedin.com/in/martinbecker001](https://www.linkedin.com/in/martinbecker001)
 
-I'm learning Python and use Claude Code, an AI coding assistant, to automate my work.
+I have a passion to automate everything.  Automation is a force multiplier.
